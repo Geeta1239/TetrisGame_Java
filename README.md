@@ -1,7 +1,3 @@
-Here’s your text perfectly converted into **Markdown** format (no code formatting, just clean Markdown text for documentation or GitHub README):
-
----
-
 # **Tetris Game Project Report**
 
 ## **1. Introduction**
